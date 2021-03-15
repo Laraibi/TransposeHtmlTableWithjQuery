@@ -1,0 +1,65 @@
+h4 {
+  text-align: center;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+.row {
+  margin: 2px;
+  padding: 2px;
+}
+table thead{
+    color:white !important;
+}
+
+table {
+  border-collapse: separate !important;
+}
+
+thead tr th {
+  border: 1px solid white !important;
+  border-collapse: separate !important;
+}
+
+table tbody td {
+  border-collapse: collapse !important;
+}
+
+.dash .col-4 {
+  -webkit-box-shadow: 5px 5px 7px 0px #000000;
+  box-shadow: 5px 5px 7px 0px #000000;
+  margin-bottom: 5px;
+
+  color: pink;
+}
+
+.btn-dark:hover {
+  background-color: dimgrey;
+  color: pink;
+}
+
+input,
+select {
+  color: pink;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.card-header {
+  background-color: #e83e8c;
+  color: white;
+  text-align: center;
+}
+.col-3 {
+  padding: 2px;
+}
+
+#NewTable tr th{
+    /* border: solid 1px black; */
+    background-color: #212529!important;
+    color: white !important;
+}
